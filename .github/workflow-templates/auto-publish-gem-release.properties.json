@@ -1,0 +1,12 @@
+{
+  "name": "Auto Publish Gem Release",
+  "description": "Publish Ruby gem on release to GitHub Packages",
+  "iconName": "octicon ruby",
+  "categories": [
+    "Ruby",
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    ".*\\.gemspec$"
+  ]
+}
