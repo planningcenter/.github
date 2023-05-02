@@ -1,6 +1,6 @@
 {
-  "name": "Auto Publish Gem Release",
-  "description": "Publish Ruby gem on release to GitHub Packages",
+  "name": "Publish Gem Release",
+  "description": "Publish Ruby gem to GitHub Packages for new releases",
   "iconName": "octicon ruby",
   "categories": [
     "Ruby",
