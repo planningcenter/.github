@@ -1,0 +1,11 @@
+{
+  "name": "Update GitHub Action Tags",
+  "description": "Update major & major.minor tags automatically for new releases",
+  "iconName": "octicon mark-github",
+  "categories": [
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    "^action.yml$"
+  ]
+}
